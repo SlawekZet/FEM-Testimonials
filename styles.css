@@ -10,7 +10,7 @@ body {
   justify-content: center;
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
-  background-color: hsl(0, 0%, 81%);
+  background-color: hsl(210, 46%, 95%);
   color: hsl(0, 0%, 100%);
   width: 100%;
   min-height: 100vh;
@@ -41,6 +41,7 @@ main {
 .testimonial {
   padding: 30px;
   border-radius: 10px;
+  box-shadow: 50px 50px 30px 1px rgba(0, 0, 0, 0.05);
 }
 
 .testimonial h1 {
